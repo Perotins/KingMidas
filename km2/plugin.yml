@@ -1,0 +1,9 @@
+name: KingMidas
+main: me.perotin.kingmidas.KingMidas
+version: 1.1
+author: Perotin
+commands:
+   kingmidas:
+      description: The source of the King Midas!
+      usage: /kingmidas <player>
+      aliases: [km]

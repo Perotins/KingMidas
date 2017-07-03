@@ -1,0 +1,10 @@
+# KingMidas Configuration File
+blocked-blocks:
+   - WATER
+   - LAVA
+   - AIR
+   
+   
+# Should players be equipped with golden armor when in Midas phase?
+to-equip: true
+
